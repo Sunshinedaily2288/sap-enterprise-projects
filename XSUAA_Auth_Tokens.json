@@ -1,0 +1,18 @@
+{
+  "tenantmode": "shared",
+  "sburl": "https://internal-xsuaa.authentication.ap21.hana.ondemand.com",
+  "subaccountid": "78458fbc-35e2-4698-b31b-eb3e2beabb57",
+  "credential-type": "binding-secret",
+  "clientid": "sb-na-64697fd5-55ca-4d4a-9eb3-dfffb829c613!t131474",
+  "xsappname": "na-64697fd5-55ca-4d4a-9eb3-dfffb829c613!t131474",
+  "clientsecret": "f0ceffce-0392-41d6-8a06-a77149b0b2f9$nQ-ualHvD2iuSlXwk1WOpRr2meLCrowVShc0GKBpvXY=",
+  "serviceInstanceId": "c0ef1ce7-8ad2-4a31-a352-a7f1d6031f05",
+  "url": "https://a5b574fetrial.authentication.ap21.hana.ondemand.com",
+  "uaadomain": "authentication.ap21.hana.ondemand.com",
+  "verificationkey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwbnu/LtxH4pdycAXs5q0\n1Zqd5r4K2w6mVfqPs8nyZ08U2I1zcZ29PRF5B/T7TMOgFF85oQJwSissBCWlDN21\npzdiS3HYkhLwIB4WlkWSBTzj1rvr2ZmrvptiVo0yFgX1JHqjuI/bp7swqgDpZbHA\nTIis/qXez+LFwEMnvksL/WxoNX0WLTLHROwco2+EmaOQ519hPoIYBWcCILiTZVkC\ns+xzxsIHRQzMCBl16/WRKe4nZ8Z2MHnYUCtBPxyypO29t4VSea3djqfPdt32Q2fZ\nNnz6sWx2hiDbygFkIaVRVZ6rMiiS4I99J2L6m8rn7p/RCLdg7TzfG+lxeWmLBQV5\ncwIDAQAB\n-----END PUBLIC KEY-----",
+  "apiurl": "https://api.authentication.ap21.hana.ondemand.com",
+  "identityzone": "a5b574fetrial",
+  "identityzoneid": "78458fbc-35e2-4698-b31b-eb3e2beabb57",
+  "tenantid": "78458fbc-35e2-4698-b31b-eb3e2beabb57",
+  "zoneid": "78458fbc-35e2-4698-b31b-eb3e2beabb57"
+}
