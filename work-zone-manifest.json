@@ -1,0 +1,8 @@
+{
+  "service": "sap-build-work-zone",
+  "plan": "standard",
+  "name": "SAP_Build_WorkZone_Engine",
+  "environment": "Cloud Foundry",
+  "space": "production",
+  "type": "Runtime-Portal-Service"
+}
