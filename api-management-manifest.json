@@ -1,0 +1,8 @@
+{
+  "service": "it-rt",
+  "plan": "integration-flow",
+  "name": "SAP_Enterprise_API_Gateway",
+  "environment": "Cloud Foundry",
+  "space": "production",
+  "purpose": "API Gateway Proxy & Enterprise Message Routing Engine"
+}
