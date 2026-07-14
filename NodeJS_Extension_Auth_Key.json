@@ -1,0 +1,29 @@
+{
+  "vendor": "SAP",
+  "uri": "https://html5-apps-repo-rt.cfapps.ap21.hana.ondemand.com",
+  "bindable": true,
+  "metadata": {
+    "supportsInstanceSharing": true
+  },
+  "uaa": {
+    "tenantmode": "dedicated",
+    "sburl": "https://internal-xsuaa.authentication.ap21.hana.ondemand.com",
+    "subaccountid": "78458fbc-35e2-4698-b31b-eb3e2beabb57",
+    "credential-type": "binding-secret",
+    "clientid": "sb-3cfcb1e8-db54-4c44-9b08-161e300a488c!b131474|html5-apps-repo-uaa!b7",
+    "xsappname": "3cfcb1e8-db54-4c44-9b08-161e300a488c!b131474|html5-apps-repo-uaa!b7",
+    "clientsecret": "7c6f6601-338f-48a3-bc8a-4595fa51e202$jAVzvmkclO-GNHFErh7ynr26FBgaM01Uywp0_h-K5u0=",
+    "serviceInstanceId": "3cfcb1e8-db54-4c44-9b08-161e300a488c",
+    "url": "https://a5b574fetrial.authentication.ap21.hana.ondemand.com",
+    "uaadomain": "authentication.ap21.hana.ondemand.com",
+    "verificationkey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwbnu/LtxH4pdycAXs5q0\n1Zqd5r4K2w6mVfqPs8nyZ08U2I1zcZ29PRF5B/T7TMOgFF85oQJwSissBCWlDN21\npzdiS3HYkhLwIB4WlkWSBTzj1rvr2ZmrvptiVo0yFgX1JHqjuI/bp7swqgDpZbHA\nTIis/qXez+LFwEMnvksL/WxoNX0WLTLHROwco2+EmaOQ519hPoIYBWcCILiTZVkC\ns+xzxsIHRQzMCBl16/WRKe4nZ8Z2MHnYUCtBPxyypO29t4VSea3djqfPdt32Q2fZ\nNnz6sWx2hiDbygFkIaVRVZ6rMiiS4I99J2L6m8rn7p/RCLdg7TzfG+lxeWmLBQV5\ncwIDAQAB\n-----END PUBLIC KEY-----",
+    "apiurl": "https://api.authentication.ap21.hana.ondemand.com",
+    "identityzone": "a5b574fetrial",
+    "identityzoneid": "78458fbc-35e2-4698-b31b-eb3e2beabb57",
+    "tenantid": "78458fbc-35e2-4698-b31b-eb3e2beabb57",
+    "zoneid": "78458fbc-35e2-4698-b31b-eb3e2beabb57"
+  },
+  "grant_type": "client_credentials",
+  "sap.cloud.service": "html5-apps-repo-rt",
+  "saasregistryenabled": true
+}
