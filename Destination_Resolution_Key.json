@@ -1,0 +1,17 @@
+{
+  "tenantmode": "dedicated",
+  "token-type": [
+    "xsuaa"
+  ],
+  "clientid": "sb-clone71d843b1db03401eb994e1b3dbdb50bf!b131474|destination-xsappname!b5",
+  "credential-type": "binding-secret",
+  "xsappname": "clone71d843b1db03401eb994e1b3dbdb50bf!b131474|destination-xsappname!b5",
+  "clientsecret": "79caa6c4-9a18-4469-b21f-7cfda72d134e$zGvEtZrYgOvHtyGB6NayKnaZxkwvGwXhQzlDaMOt9SU=",
+  "uri": "https://destination-configuration.cfapps.ap21.hana.ondemand.com",
+  "url": "https://a5b574fetrial.authentication.ap21.hana.ondemand.com",
+  "uaadomain": "authentication.ap21.hana.ondemand.com",
+  "instanceid": "71d843b1-db03-401e-b994-e1b3dbdb50bf",
+  "verificationkey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwbnu/LtxH4pdycAXs5q0\n1Zqd5r4K2w6mVfqPs8nyZ08U2I1zcZ29PRF5B/T7TMOgFF85oQJwSissBCWlDN21\npzdiS3HYkhLwIB4WlkWSBTzj1rvr2ZmrvptiVo0yFgX1JHqjuI/bp7swqgDpZbHA\nTIis/qXez+LFwEMnvksL/WxoNX0WLTLHROwco2+EmaOQ519hPoIYBWcCILiTZVkC\ns+xzxsIHRQzMCBl16/WRKe4nZ8Z2MHnYUCtBPxyypO29t4VSea3djqfPdt32Q2fZ\nNnz6sWx2hiDbygFkIaVRVZ6rMiiS4I99J2L6m8rn7p/RCLdg7TzfG+lxeWmLBQV5\ncwIDAQAB\n-----END PUBLIC KEY-----",
+  "identityzone": "a5b574fetrial",
+  "tenantid": "78458fbc-35e2-4698-b31b-eb3e2beabb57"
+}
