@@ -1,0 +1,10 @@
+---
+applications:
+  - name: sap-b1-production-api
+    memory: 256M
+    disk_quota: 512M
+    random-route: true
+    buildpacks:
+      - nodejs_buildpack
+    env:
+      NODE_ENV: "production"
