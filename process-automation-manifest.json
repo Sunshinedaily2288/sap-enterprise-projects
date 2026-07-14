@@ -1,0 +1,7 @@
+{
+  "service": "sap-build-process-automation",
+  "plan": "free",
+  "name": "SAP_B1_Approval_Engine",
+  "environment": "Cloud Foundry",
+  "space": "production"
+}
