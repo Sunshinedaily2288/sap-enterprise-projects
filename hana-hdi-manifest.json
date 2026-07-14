@@ -1,0 +1,10 @@
+{
+  "service": "hana",
+  "plan": "hdi-shared",
+  "name": "SAP_B1_HANA_Data_Store",
+  "environment": "Cloud Foundry",
+  "space": "production",
+  "parameters": {
+    "schema": "B1_EXTENSION_SCHEMA"
+  }
+}
